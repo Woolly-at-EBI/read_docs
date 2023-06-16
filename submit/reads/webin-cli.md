@@ -223,9 +223,11 @@ Deprecated:
 - NextSeq 2000
 - NextSeq 500
 - NextSeq 550
+- Onso
 - PacBio RS
 - PacBio RS II
 - PromethION
+- Revio
 - Sequel
 - Sequel II
 - Sequel IIe
